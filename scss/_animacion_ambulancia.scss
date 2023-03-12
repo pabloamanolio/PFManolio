@@ -1,0 +1,18 @@
+.ambu {height: 80px; 
+    width: auto; 
+    transform: translateX(1400px);
+    animation-name: pasa-la-ambu;
+    animation-delay: 0s;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;    
+    animation-timing-function:linear;
+  }
+
+
+    
+  @keyframes pasa-la-ambu { @for $i from 1 through 100 {
+
+    #{$i}% {transform:translatex( (100vw-($i/100)*100vw) )}
+  }
+    
+  }

@@ -1,0 +1,28 @@
+@mixin fonts ($tamano, $estilo)
+{
+   font-size: $tamano;
+   font-style: $estilo;
+}
+
+.texto-chico 
+{
+   @include fonts(60%, normal);
+}
+
+.Texto-principal 
+{
+   @include fonts (400%, normal); padding-top: 200px;
+}
+
+.tamano
+{
+   height: 100%;
+   width: 100vw;
+  padding-bottom: 250px
+}
+
+.texto-secundario
+{
+   @include fonts(30px, normal); padding-bottom: 50px;
+}
+

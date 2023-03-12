@@ -1,0 +1,78 @@
+main 
+{
+  background-image: linear-gradient(to left,$azul, $gris, $blanco);
+  
+}
+
+.SobreMi
+{
+  margin-top: 75px !important;
+}
+
+.Crianza
+{
+  margin-top: 60px;
+}
+
+.ImagenInconsciente 
+{
+  height: 540px;
+  width: auto;
+}
+
+.FlyerPA
+{
+  height: 400px;
+  width: auto;
+}
+
+.ArtPrimerosAux
+{
+  margin-top: 75px !important;
+}
+
+.Lactancia 
+{
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.ImagenLactancia
+{
+  height: 500px;
+  width: auto;
+  margin-top: 50px;
+}
+
+.imgsobremi
+{height: 350px !important;
+width: auto !important;}
+
+.tabla
+{
+  display: grid;
+  padding: 0.5rem;
+  grid-gap: 0.5rem;
+  grid-template-columns: repeat(3, 35%);
+  grid-template-rows:  30% 30% 30%;
+  width: fit-content;
+
+}
+
+.elementotabla
+{
+  background-color: rgb(51, 93, 153);
+  color: black;
+  padding: 1rem;
+  
+}
+
+.PaginaDeContacto
+{
+  margin-top: 60px !important;
+}
+
+.proximostalleres
+{
+  margin-top: 50px;
+}

@@ -1,0 +1,282 @@
+.texto-chico {
+  font-size: 60%;
+  font-style: normal; }
+
+.Texto-principal {
+  font-size: 400%;
+  font-style: normal;
+  padding-top: 200px; }
+
+.tamano {
+  height: 100%;
+  width: 100vw;
+  padding-bottom: 250px; }
+
+.texto-secundario {
+  font-size: 30px;
+  font-style: normal;
+  padding-bottom: 50px; }
+
+main {
+  background-image: linear-gradient(to left, blue, grey, white); }
+
+.SobreMi {
+  margin-top: 75px !important; }
+
+.Crianza {
+  margin-top: 60px; }
+
+.ImagenInconsciente {
+  height: 540px;
+  width: auto; }
+
+.FlyerPA {
+  height: 400px;
+  width: auto; }
+
+.ArtPrimerosAux {
+  margin-top: 75px !important; }
+
+.Lactancia {
+  margin-top: 50px;
+  margin-bottom: 30px; }
+
+.ImagenLactancia {
+  height: 500px;
+  width: auto;
+  margin-top: 50px; }
+
+.imgsobremi {
+  height: 350px !important;
+  width: auto !important; }
+
+.tabla {
+  display: grid;
+  padding: 0.5rem;
+  grid-gap: 0.5rem;
+  grid-template-columns: repeat(3, 35%);
+  grid-template-rows: 30% 30% 30%;
+  width: fit-content; }
+
+.elementotabla {
+  background-color: #335d99;
+  color: black;
+  padding: 1rem; }
+
+.PaginaDeContacto {
+  margin-top: 60px !important; }
+
+.proximostalleres {
+  margin-top: 50px; }
+
+.ambu {
+  height: 80px;
+  width: auto;
+  transform: translateX(1400px);
+  animation-name: pasa-la-ambu;
+  animation-delay: 0s;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear; }
+
+@keyframes pasa-la-ambu {
+  1% {
+    transform: translatex(99vw); }
+  2% {
+    transform: translatex(98vw); }
+  3% {
+    transform: translatex(97vw); }
+  4% {
+    transform: translatex(96vw); }
+  5% {
+    transform: translatex(95vw); }
+  6% {
+    transform: translatex(94vw); }
+  7% {
+    transform: translatex(93vw); }
+  8% {
+    transform: translatex(92vw); }
+  9% {
+    transform: translatex(91vw); }
+  10% {
+    transform: translatex(90vw); }
+  11% {
+    transform: translatex(89vw); }
+  12% {
+    transform: translatex(88vw); }
+  13% {
+    transform: translatex(87vw); }
+  14% {
+    transform: translatex(86vw); }
+  15% {
+    transform: translatex(85vw); }
+  16% {
+    transform: translatex(84vw); }
+  17% {
+    transform: translatex(83vw); }
+  18% {
+    transform: translatex(82vw); }
+  19% {
+    transform: translatex(81vw); }
+  20% {
+    transform: translatex(80vw); }
+  21% {
+    transform: translatex(79vw); }
+  22% {
+    transform: translatex(78vw); }
+  23% {
+    transform: translatex(77vw); }
+  24% {
+    transform: translatex(76vw); }
+  25% {
+    transform: translatex(75vw); }
+  26% {
+    transform: translatex(74vw); }
+  27% {
+    transform: translatex(73vw); }
+  28% {
+    transform: translatex(72vw); }
+  29% {
+    transform: translatex(71vw); }
+  30% {
+    transform: translatex(70vw); }
+  31% {
+    transform: translatex(69vw); }
+  32% {
+    transform: translatex(68vw); }
+  33% {
+    transform: translatex(67vw); }
+  34% {
+    transform: translatex(66vw); }
+  35% {
+    transform: translatex(65vw); }
+  36% {
+    transform: translatex(64vw); }
+  37% {
+    transform: translatex(63vw); }
+  38% {
+    transform: translatex(62vw); }
+  39% {
+    transform: translatex(61vw); }
+  40% {
+    transform: translatex(60vw); }
+  41% {
+    transform: translatex(59vw); }
+  42% {
+    transform: translatex(58vw); }
+  43% {
+    transform: translatex(57vw); }
+  44% {
+    transform: translatex(56vw); }
+  45% {
+    transform: translatex(55vw); }
+  46% {
+    transform: translatex(54vw); }
+  47% {
+    transform: translatex(53vw); }
+  48% {
+    transform: translatex(52vw); }
+  49% {
+    transform: translatex(51vw); }
+  50% {
+    transform: translatex(50vw); }
+  51% {
+    transform: translatex(49vw); }
+  52% {
+    transform: translatex(48vw); }
+  53% {
+    transform: translatex(47vw); }
+  54% {
+    transform: translatex(46vw); }
+  55% {
+    transform: translatex(45vw); }
+  56% {
+    transform: translatex(44vw); }
+  57% {
+    transform: translatex(43vw); }
+  58% {
+    transform: translatex(42vw); }
+  59% {
+    transform: translatex(41vw); }
+  60% {
+    transform: translatex(40vw); }
+  61% {
+    transform: translatex(39vw); }
+  62% {
+    transform: translatex(38vw); }
+  63% {
+    transform: translatex(37vw); }
+  64% {
+    transform: translatex(36vw); }
+  65% {
+    transform: translatex(35vw); }
+  66% {
+    transform: translatex(34vw); }
+  67% {
+    transform: translatex(33vw); }
+  68% {
+    transform: translatex(32vw); }
+  69% {
+    transform: translatex(31vw); }
+  70% {
+    transform: translatex(30vw); }
+  71% {
+    transform: translatex(29vw); }
+  72% {
+    transform: translatex(28vw); }
+  73% {
+    transform: translatex(27vw); }
+  74% {
+    transform: translatex(26vw); }
+  75% {
+    transform: translatex(25vw); }
+  76% {
+    transform: translatex(24vw); }
+  77% {
+    transform: translatex(23vw); }
+  78% {
+    transform: translatex(22vw); }
+  79% {
+    transform: translatex(21vw); }
+  80% {
+    transform: translatex(20vw); }
+  81% {
+    transform: translatex(19vw); }
+  82% {
+    transform: translatex(18vw); }
+  83% {
+    transform: translatex(17vw); }
+  84% {
+    transform: translatex(16vw); }
+  85% {
+    transform: translatex(15vw); }
+  86% {
+    transform: translatex(14vw); }
+  87% {
+    transform: translatex(13vw); }
+  88% {
+    transform: translatex(12vw); }
+  89% {
+    transform: translatex(11vw); }
+  90% {
+    transform: translatex(10vw); }
+  91% {
+    transform: translatex(9vw); }
+  92% {
+    transform: translatex(8vw); }
+  93% {
+    transform: translatex(7vw); }
+  94% {
+    transform: translatex(6vw); }
+  95% {
+    transform: translatex(5vw); }
+  96% {
+    transform: translatex(4vw); }
+  97% {
+    transform: translatex(3vw); }
+  98% {
+    transform: translatex(2vw); }
+  99% {
+    transform: translatex(1vw); }
+  100% {
+    transform: translatex(0vw); } }
